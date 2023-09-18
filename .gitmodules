@@ -1,0 +1,6 @@
+[submodule "face-parsing.PyTorch"]
+	path = face-parsing.PyTorch
+	url = https://github.com/zllrunning/face-parsing.PyTorch.git
+[submodule "FSA-Net"]
+	path = FSA-Net
+	url = https://github.com/shamangary/FSA-Net.git
