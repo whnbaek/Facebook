@@ -1,4 +1,4 @@
-# FACEBOOK: Switching Faces on Textbook with Other Photos
+# Facebook: Switching Faces on Textbook with Other Photos
 
 ![](materials/example.png)
 
